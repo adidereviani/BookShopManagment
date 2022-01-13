@@ -13,8 +13,8 @@ UserName: Admin,
 Password: Password.
 
 - **Seller Account:**
-UserName: Keren,
-Password: 1512.
+UserName: Adi,
+Password: 1234.
 
 note: You can see more sellers accounts through the admin account - in the "Sellers Accounts" Management tab.
 
