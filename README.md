@@ -9,11 +9,11 @@ Adi Dereviani, ID: 305674731.
 - PDF file with screenshots of the Junit tests success (NetBeans).
 
 - **Admin Account:** \
-UserName: Admin,\
+UserName: Admin\
 Password: Password
 
 - **Seller Account:**\
-UserName: Adi,\
+UserName: Adi\
 Password: 1234
 
 note: You can see more sellers accounts through the admin account - in the "Sellers Accounts" Management tab.
