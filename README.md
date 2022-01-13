@@ -1,4 +1,4 @@
-### BookShop_Java_Project
+# Book Shop Managment Java Project
 Liron Levi, ID: 312409592.\
 Adi Dereviani, ID: 305674731.
 
