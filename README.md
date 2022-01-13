@@ -19,6 +19,7 @@ Password: 1512.
 note: You can see more sellers accounts through the admin account - in the "Sellers Accounts" Management tab.
 
 ------------------
+![book-shop-managment](book_shop_software.png)
 
 <img src = "https://icon-library.com/images/java-icon-image/java-icon-image-10.jpg" width="100" height="100">
 
